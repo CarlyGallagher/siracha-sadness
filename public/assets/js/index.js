@@ -1,3 +1,6 @@
+const express = require('express');
+const routes = require('./js/routes');
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;

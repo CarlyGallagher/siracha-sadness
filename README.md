@@ -6,25 +6,25 @@ So That I can make quick reminders of things I need to-do, thoughts, and/or idea
 
 ## Tasks
 ​
-- Generator must use the command line and present me with questions that are necessary for a professional README.
-- when hitting enter aftering answering a question it will populate the next question for my README
-- When finished with the prompts a message will send telling me I was succesful in creating the README.
-- When finishing the prompts a new file is created to hold the information.
+-
+-
+-
+-
 
 ​
 ## Usage
 
-​![Alt text](utils/assets/terminalPrompts.png)
+​![Alt text]
 
 ## Links
-- Deployed Webpage: N/A
-- GitHub Repo Page: https://github.com/CarlyGallagher/blue-pickled-ginger.git
-- Castify Video Demo: https://drive.google.com/file/d/1CRk_2KKUcTv_PiUDYbIiSirFC04UJP5E/view
+- Deployed Webpage: 
+- GitHub Repo Page: 
+- Castify Video Demo: 
 ​
 ## Credits
 ​
-- https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/
-- https://opensource.org/
+- 
+- 
 ​
 ## License
 ​
