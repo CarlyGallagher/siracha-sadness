@@ -1,5 +1,6 @@
 const express = require('express');
-const routes = require('./js/routes');
+const routes = require('./routes/htmlRoutes');
+const routes = require('./routes/apiRoutes');
 
 let noteTitle;
 let noteText;
